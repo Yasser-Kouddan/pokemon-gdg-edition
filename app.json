@@ -22,7 +22,8 @@
         "backgroundColor": "#1E1E1E"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.yasserkouddan.pokemongdgedition"
     },
     "web": {
       "bundler": "metro",
