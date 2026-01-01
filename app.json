@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "pokemon-gdg-edition",
+    "name": "Pokémon GDG Edition",
     "slug": "pokemon-gdg-edition",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "gdgpokepal",
+    "scheme": "pokemon-gdg-edition",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
